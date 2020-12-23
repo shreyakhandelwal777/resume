@@ -1,0 +1,18 @@
+.c{
+	
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  height:750px;
+}
+@media screen and (min-width: 480px) {
+  c {
+    background-color: lightgreen;
+    display: flex;
+  justify-content:center;
+  align-items: center;
+  height:100px;
+  width:200px;
+
+  }
+}

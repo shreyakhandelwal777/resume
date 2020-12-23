@@ -1,0 +1,16 @@
+.Back2{
+	
+	text-align: left;
+	font-family: 'Brush Script MT', cursive;
+  font-size:25px;
+  color: #454a6b;
+}
+.Back{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+.Back1{
+	border: 7px solid #57575c;
+}
